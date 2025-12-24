@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a68510-61b2-4ef8-84d4-f7f8a1a630cd" name="Changes" comment="" />
+    <list default="true" id="07a68510-61b2-4ef8-84d4-f7f8a1a630cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assigment_01/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
