@@ -1,5 +1,5 @@
 # Task 2
-# Sum of integers from 1 to 50 using a lool
+# Sum of integers from 1 to 50 using a loop
 
 # Initialize sum variable
 total = 0
