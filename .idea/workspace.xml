@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b104bf-26a8-4cda-9cfd-fc81664a05cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assigment_02/TASK2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment_02/TASK2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_03/TASK3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_03/TASK3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_03/TASK3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_03/TASK3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment_04/TASK-4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment_04/TASK-4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +17,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38HT1k0H44gh5QjGwMbJYZbnt77" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +32,7 @@
     "Python.TASK3.1.executor": "Run",
     "Python.TASK3.2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
