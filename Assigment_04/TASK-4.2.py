@@ -9,14 +9,14 @@ f.close()
 print("Data successfully written to output.txt.")
 
 text2 = input("Enter additional text to append: ")
-f = open("output.txt", "a")
+f = open("output.txt", "at")
 f.write("\n" + text2)
 f.close()
 
 print("Data successfully appended.")
 
 print("Final content of output.txt:")
-f = open("output.txt", "r")
+f = open("output.txt", "rt")
 data = f.read()
 print(data)
 f.close()
